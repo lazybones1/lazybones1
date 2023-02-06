@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/lazybones1/MyProjects/blob/main/README.md">MyProjects</a>
+<a href="https://github.com/lazybones1/MyProjects/blob/main/README.md">MyProjects</a>   
 <a href="https://lazybones1.tistory.com/">MyBlog</a>
 
 <div align="center">
