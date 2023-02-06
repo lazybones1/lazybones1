@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/lazybones1/MyProjects/blob/main/README.md">MyProjects</a>
+<a href="https://lazybones1.tistory.com/">MyBlog</a>
 
 <div align="center">
   <a href="https://github.com/lazybones1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lazybones1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybones1&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
-  
-  
+</div> 
